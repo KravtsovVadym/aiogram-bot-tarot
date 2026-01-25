@@ -34,7 +34,7 @@ Telegram bot for daily tarot readings, family advice, and personal spiritual gui
 ```bash
 git clone <repo-url>
 cd <project-name>
-pip install -r requirements.txt # text
+pip install -r requirements.txt
 ```
 
 2. **Configure environment**
@@ -93,5 +93,6 @@ users (
 ## License
 
 MIT
+
 
 

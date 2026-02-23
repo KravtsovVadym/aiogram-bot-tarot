@@ -32,7 +32,7 @@ Telegram bot for daily tarot readings, family advice, and personal spiritual gui
 
 1. **Clone & install**
 ```bash
-git clone <repo-url>
+git clone https://github.com/KravtsovVadym/aiogram-bot-tarot
 cd <project-name>
 pip install -r requirements.txt
 ```
@@ -93,6 +93,7 @@ users (
 ## License
 
 MIT
+
 
 
 
